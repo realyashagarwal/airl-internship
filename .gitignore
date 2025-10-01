@@ -1,0 +1,6 @@
+data/
+GroundingDINO
+models
+sam2
+segment-anything-2
+best_vit_cifar10.pth
